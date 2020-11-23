@@ -1,0 +1,37 @@
+<GMLFeatureClassList>
+  <GMLFeatureClass>
+    <Name>StatBez_Linz</Name>
+    <ElementPath>StatBez_Linz</ElementPath>
+    <!--POLYGONZ-->
+    <GeometryType>-2147483645</GeometryType>
+    <SRSName>EPSG:4326</SRSName>
+    <DatasetSpecificInfo>
+      <FeatureCount>16</FeatureCount>
+      <ExtentXMin>14.24572</ExtentXMin>
+      <ExtentXMax>14.40922</ExtentXMax>
+      <ExtentYMin>48.21137</ExtentYMin>
+      <ExtentYMax>48.37869</ExtentYMax>
+    </DatasetSpecificInfo>
+    <PropertyDefn>
+      <Name>Stb</Name>
+      <ElementPath>Stb</ElementPath>
+      <Type>Integer</Type>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>Bezeichung</Name>
+      <ElementPath>Bezeichung</ElementPath>
+      <Type>String</Type>
+      <Width>21</Width>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>Flaeche</Name>
+      <ElementPath>Flaeche</ElementPath>
+      <Type>Real</Type>
+    </PropertyDefn>
+    <PropertyDefn>
+      <Name>STBn</Name>
+      <ElementPath>STBn</ElementPath>
+      <Type>Integer</Type>
+    </PropertyDefn>
+  </GMLFeatureClass>
+</GMLFeatureClassList>
